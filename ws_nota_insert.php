@@ -7,7 +7,7 @@ $notafinal=$_REQUEST['notafinal'];
 
 $servidor="localhost";
 $usuario="root";
-$password="yohalmo95";
+$password="contraseña";
 $respuesta=array('resultado'=>0);
 json_encode($respuesta);
 $baseDatos="DR12004_PDM";
